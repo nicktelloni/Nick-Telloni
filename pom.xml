@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>nicktelloni_Nick-Telloni</sonar.projectKey>
+  <sonar.organization>nicktelloni</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
